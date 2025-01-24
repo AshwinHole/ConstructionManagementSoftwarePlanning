@@ -68,12 +68,8 @@ Based on research conducted with builders in Pune, the system shows promising po
 
 The project is built on comprehensive research incorporating insights from multiple academic papers and industry sources, ensuring a solid theoretical foundation combined with practical applicability.
 
-## License
-
-[Include license information]
 
 ## Contact
 
-[Include contact information]
+Please contact on ashwinhole18@gmail.com for further information
 
-Note: This is an academic research project developed at Vellore Institute of Technology, Chennai, focusing on improving construction industry management through digital transformation.
